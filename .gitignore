@@ -4,3 +4,7 @@
 *.zip
 *.rtf
 __pycache__/
+input/*
+output/*
+tmp/*
+!.keep
